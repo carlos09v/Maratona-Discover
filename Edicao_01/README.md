@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/9d0b7435ded694abeba1e932c1f9b3f263fecbff/.github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/main/.github/devfinances.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,10 +36,5 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+## Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
