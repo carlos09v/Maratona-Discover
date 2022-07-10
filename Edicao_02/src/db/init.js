@@ -45,13 +45,13 @@ const initDb = {
             vacation_per_year,
             value_hour
         ) VALUES (
-            "Carlos V.",
-            "https://github.com/carlos09v.png",
-            3000,
-            5,
-            5,
-            4,
-            60
+            "Crie seu perfil",
+            "Coloque o link da sua foto",
+            0,
+            0,
+            0,
+            0,
+            0
         )`)
 
         await db.run(`INSERT INTO jobs (
@@ -60,21 +60,9 @@ const initDb = {
             total_hours,
             created_at
         ) VALUES (
-            "Pizzaria Guloso",
+            "Teste",
             2,
             1,
-            1617514376018
-        )`)
-
-        await db.run(`INSERT INTO jobs (
-            name,
-            daily_hours,
-            total_hours,
-            created_at
-        ) VALUES (
-            "OneTwo Projects",
-            3,
-            47,
             1617514376018
         )`)
 
