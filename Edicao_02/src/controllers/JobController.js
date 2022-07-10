@@ -45,7 +45,7 @@ module.exports =  {
     const updatedJob = {
       name: req.body.name,
       "total-hours": req.body["total-hours"],
-      'daily-hours': req.body["daily-hours"],
+      'daily-hours': req.body["daily-hours"]
     }
 
     await Job.update(updatedJob, jobId)
